@@ -4,7 +4,7 @@ An AI-powered customer churn prediction tool that uses Machine Learning and Groq
 
 Built for customer retention teams, data analysts, and business leaders who need actionable insight fast.
 
-**Live Demo:** [Coming Soon on Streamlit Cloud]
+**Live Demo:** [https://churn-predictor-30.streamlit.app/](https://churn-predictor-30.streamlit.app/)
 
 ---
 
