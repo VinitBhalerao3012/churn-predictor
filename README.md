@@ -125,50 +125,30 @@ streamlit run app.py
 - **Groq API Key** — Free at [console.groq.com](https://console.groq.com)
 
 ---
-
 ## 📁 Project Structure
+
+```
 churn-predictor/
-
-├── app.py                  # Main Streamlit application
-
-├── train_model.py          # ML model training script
-
-├── requirements.txt        # Python dependencies
-
-├── README.md               # Project documentation
-
-├── .gitignore              # Git ignore file
-
+├── app.py
+├── train_model.py
+├── requirements.txt
+├── README.md
+├── .gitignore
 ├── models/
-
-│   ├── churn_model.pkl     # Trained Random Forest model
-
-│   └── feature_names.pkl  # Feature names for prediction
-
+│   ├── churn_model.pkl
+│   └── feature_names.pkl
 ├── data/
-
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-
 └── assets/
-
-├── churn-predictor-01-landing-page.png
-
-├── churn-predictor-02-single-customer-prediction.png
-
-├── churn-predictor-03-ai-retention-analysis.png
-
-├── churn-predictor-04-batch-upload.png
-
-├── churn-predictor-05-batch-summary-metrics.png
-
-├── churn-predictor-06-charts-results-table.png
-
-├── churn-predictor-07-ai-executive-summary-button.png
-
-└── churn-predictor-08-ai-executive-summary-output.png
-
----
-
+    ├── churn-predictor-01-landing-page.png
+    ├── churn-predictor-02-single-customer-prediction.png
+    ├── churn-predictor-03-ai-retention-analysis.png
+    ├── churn-predictor-04-batch-upload.png
+    ├── churn-predictor-05-batch-summary-metrics.png
+    ├── churn-predictor-06-charts-results-table.png
+    ├── churn-predictor-07-ai-executive-summary-button.png
+    └── churn-predictor-08-ai-executive-summary-output.png
+```
 ## 👨‍💻 Author
 
 **Vinit Bhalerao**
